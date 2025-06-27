@@ -38,7 +38,7 @@ O programa solicita ao usuário o número do cartão de crédito, remove espaço
 
 1. Certifique-se de ter o Python instalado.
 2. No terminal, navegue até a pasta do projeto:
-   ```
+
 3. Execute o arquivo:
    ```
    python index.py
